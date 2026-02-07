@@ -1,7 +1,5 @@
 # Attendance-System-Using-Python-and-OpenCV
 
-Author : MD ASHER 
-
 
 This code is to detect Faces and Record their attendance in a CSV file.This can be modified to work with, Static Images, Videos, Mobile/Laptop Cameras, RTSP streams of Security Camera/IoT Devices or Drones etc.
 
